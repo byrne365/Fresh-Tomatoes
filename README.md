@@ -17,7 +17,8 @@ Install files of chrome and python are listed below.
 
 # How does Fresh Tomatoes function?
 
-In the file named `media.py` I created a class called `Movie`, within this class there is an function called `_init_`. When the `init` function gets called, it creates an instance, `self` is the instance being created (the movie), and calls the argument and its variables. for example the `movie_title`, `VALID RATING`,etc. which can be found within the `entertainment_center.py` file. When each instance is called it sets aside space for each instance and within this space each instance has its own set of variables, known as instence variables.
+In the file named `media.py` I created a class called `Movie`, within this class there is an function called `_init_`. 
+When the `init` function gets called, it creates an instance called `self` or the movie and information we want to be displayed, for example the `movie_title` and `VALID RATING`,etc. which can be found within the `entertainment_center.py` file. When each instance is called it sets aside space for each instance and within this space each instance has its own set of variables, known as instance variables.
 ```
 def __init__ (self, movie_title, movie_VALID_RATINGS, movie_storyline, poster_image,trailer_youtube):
         self.title = movie_title
