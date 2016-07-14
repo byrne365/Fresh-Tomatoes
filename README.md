@@ -1,7 +1,8 @@
 # Fresh-Tomatoes
 
 ## What is the purpose of Fresh Tomatoes?
-Fresh Tomatoes is a Website which displays a list of some of my favourite movies, including poster images,
+Fresh Tomatoes is a Website project which I am currently doing for a nano degree through Udacity.
+The webiste displays a list of some of my favourite movies, including poster images,
 movie ratings and youtube trailers.
 Fresh Tomatoes references three files, `fresh_tomatoes.py`, `media.py`, and `entertainment_centre.py`.
 
@@ -44,6 +45,7 @@ Changes can be made to each instance like the _**rating**_, _**synopsys**_, _**m
 The file called `media.py` should not be changed unless you wish to add more instances.
 
 Thank you for reading the above file.
+`fresh_tomatoes.py` was created by Udacity as part of their nano degree program
 
 
 
