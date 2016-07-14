@@ -41,7 +41,9 @@ Should you wish to exit, simply press the close **`X`** in the top left hand cou
 This is possible, by making changes to the `entertainment_center.py` file.
 This file contains all the individual information about each movie which is displayed in the `fresh_tomatoes.html` file.
 Changes can be made to each instance like the _**rating**_, _**synopsys**_, _**movie trailer**_, and the _**poster image**_.
-The file called `media.py` should not be changed as this is the `parent` file.
+The file called `media.py` should not be changed unless you wish to add more instances.
+
+Thank you for reading the above file.
 
 
 
