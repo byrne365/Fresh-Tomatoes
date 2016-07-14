@@ -17,7 +17,7 @@ Install files of chrome and python are listed below.
 
 # How to use Fresh Tomatoes
 
-The file called `fresh_tomatoes.py` takes in arguments which it receives from the file called `enertainment_centre.py`
+The file called `fresh_tomatoes.py` takes in arguments which it receives from the file called `enertainment_centre.py`and passes it through `media.py` file.
 
 ## to view fresh_tomatoes.html
 Simply open the `fresh_tomatoes.html` file in any browser, you will be presented with a web page which will display six of my current favourite movies.
@@ -28,8 +28,8 @@ The trailer for each movie can be easily viewed.To do this simply `click` on the
 A seperate movie trailer screen will then appear. You can adjust the `volume`, and `quality` of the trailer.
 Should you wish to exit, simply press the close **`X`** in the top left hand courner of the movie trailer screen.
 
-## How do I  make changes to the movies?
-This is possibel by making changes to the `entertainment_center.py` file.
+## Can I  make changes to the movies?
+This is possible, by making changes to the `entertainment_center.py` file.
 This file contains all the individual information about each movie which is displayed in the `fresh_tomatoes.html` file.
 Changes can be made like the _**rating**_, _**synopsys**_, _**movie trailer**_, and the _**poster image**_.
 The file called `media.py` should not be changed as this is the `parent` file.
