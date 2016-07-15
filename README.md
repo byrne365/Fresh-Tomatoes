@@ -58,6 +58,11 @@ Firstly make your way to `https://www.python.org/` > Downloands > A dropdown lis
 1.From this list select either `Windows X86` or `Windows X86-64`
 2.Once downloaded locate the file in your download file,(or prefered location) double clicking the file and pressing Run when the dialog box pops up.
 3.Next select the `Install for all users`option if you are allowing `all user's` who access your computer, access to the `python` program then leave this option selected. If you have multiple users and wish to not install `python` accross all accounts then select the `Install just for me` option then press `Next.`
+4.Feel free to change the location path however, it is best to leave it as is and simply select 'Next'.
+5.Scroll down in the window and find the 'Add Python.exe to Path' and click on the small red 'X' Choose the 'Will be installed on local hard drive' option then press 'Next'.
+6.You will notice that the installation will bring up a command prompt window while Python downloads and installs 'Pip'. 'Pip' is just a package management tool. This will allow you to install all the additional Python packages that are available for download through PyPI (Python Package Index).
+7.Once the install is complete press 'Finish'.
+
 
 
 # How does Fresh Tomatoes function?
