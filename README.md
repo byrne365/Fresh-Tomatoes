@@ -20,7 +20,8 @@ To install Chrome for your user account:
 
 1.Download the installer file, using he following address: `https://www.google.com/chrome/browser/desktop/index.html`
 2.If prompted, click Run or Save.
-3.If you chose Save, double-click the installer file to start the installation process. We'll automatically import your homepage settings and browser history for you.
+3.If you chose Save, double-click the installer file to start the installation process.
+We'll automatically import your homepage settings and browser history for you.
 
 4.Start Chrome:
         * Windows 7: A Chrome window opens once everything is set up.
@@ -47,8 +48,17 @@ Use the same software that installs programs on your computer to install Chrome.
 3.Click Install Package.
 4.Google Chrome will add its program information to your software manager so that it can be kept up-to-date.
 ```
+# Installing Python
 
-`https://www.python.org/`
+Firstly make your way to `https://www.python.org/` > Downloands > A dropdown list will appear with various operating systems.
+
+## Installing on Windows
+
+```
+1.From this list select either `Windows X86` or `Windows X86-64`
+2.Once downloaded locate the file in your download file,(or prefered location) double clicking the file and pressing Run when the dialog box pops up.
+3.Next select the `Install for all users`option if you are allowing `all user's` who access your computer, access to the `python` program then leave this option selected. If you have multiple users and wish to not install `python` accross all accounts then select the `Install just for me` option then press `Next.`
+
 
 # How does Fresh Tomatoes function?
 
