@@ -106,4 +106,5 @@ Changes can be made to each instance like the _**rating**_, _**synopsys**_, _**m
 The file called `media.py` should not be changed unless you wish to add more instances.
 
 Thank you for reading the above file.
-`fresh_tomatoes.py` was created by Udacity as part of their nano degree program
+`fresh_tomatoes.py` was created by Udacity as part of their nano degree program.
+`Chrome` install readme, is the work of Google and is copied in part from the chrome download webiste.
