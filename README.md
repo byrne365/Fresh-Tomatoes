@@ -62,6 +62,17 @@ Firstly make your way to `https://www.python.org/` > Downloands > A dropdown lis
 5.Scroll down in the window and find the 'Add Python.exe to Path' and click on the small red 'X' Choose the 'Will be installed on local hard drive' option then press 'Next'.
 6.You will notice that the installation will bring up a command prompt window while Python downloads and installs 'Pip'. 'Pip' is just a package management tool. This will allow you to install all the additional Python packages that are available for download through PyPI (Python Package Index).
 7.Once the install is complete press 'Finish'.
+```
+
+# Installing Python on a Mac Machine
+
+1.From the download list at `python.org` select Mac OSX 64.32 bit installer.
+2.A pop up screen will appear for you to select the installers file location, once you have selected the location press the `save` button.
+3.Once the installer package has been donloaded click on the completed donload.
+4.The installer will promp you to press `Continue`, until you reach the license agreement.At this point press agree to continue with the install.
+5.The install package will then ask you to `install a standard instillation`, if you are happy with this then click install
+6.Once the install is complete the installer will exit.
+
 
 
 
@@ -95,11 +106,3 @@ The file called `media.py` should not be changed unless you wish to add more ins
 
 Thank you for reading the above file.
 `fresh_tomatoes.py` was created by Udacity as part of their nano degree program
-
-
-
-
-
-
-
-
